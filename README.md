@@ -88,7 +88,31 @@ Me chamo Matheus Pereira Soares, tenho 18 anos, sou apaixonado por criar interfa
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-          
+
+<img 
+    align="left" 
+    alt="Photoshop" 
+    title="Photoshop"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
+/>
+      
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+             
+<img 
+    align="left" 
+    alt="Illustrator" 
+    title="Illustrator"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" 
+/>
+              
           
 
 
