@@ -1,6 +1,6 @@
 # 🌂 Matheus Pereira
 
-**`Desenvolvedor Front-end e Web Design`**
+**`Desenvolvedor Full-Stack`**
 
 Me chamo Matheus Pereira Soares, tenho 18 anos, sou apaixonado por criar interfacese experiências digitais intuitivam, sou natural de Marília-SP. Estou no curso técnico em informática para internet e na graduação em Ciências da Computação. Atualmente, estou desenvolvendo projetos pessoais, voltadas para melhor experiência do usuário.
 
